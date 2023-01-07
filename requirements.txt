@@ -1,4 +1,4 @@
-ipywidgets as widgets
+ipywidgets
 from ipywidgets import interactive
 from ipywidgets import Box
 matplotlib
