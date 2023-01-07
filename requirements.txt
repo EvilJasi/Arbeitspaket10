@@ -1,7 +1,7 @@
 ipywidgets
 matplotlib
 numpy
-IPython.core.display
+math
 IPython.display
 builtins
 voila
