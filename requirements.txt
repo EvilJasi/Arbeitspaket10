@@ -1,4 +1,6 @@
-ipywidgets
+ipywidgets as widgets
+from ipywidgets import interactive
+from ipywidgets import Box
 matplotlib
 numpy
 voila>=0.1.8
